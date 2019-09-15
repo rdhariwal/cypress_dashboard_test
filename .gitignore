@@ -1,2 +1,9 @@
-node_modules/*
-cypress/videos/*
+
+# Dependency directories
+node_modules/
+# cypress video files
+cypress/videos/
+
+# logs
+npm-debug.log*
+yarn-debug.log*
